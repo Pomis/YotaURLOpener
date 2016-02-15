@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YotaURLOpener</string>
+    <string name="url_hint">Введите URL</string>
+    <string name="open_URL">GO</string>
+</resources>
